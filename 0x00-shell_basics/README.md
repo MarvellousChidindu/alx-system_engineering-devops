@@ -15,3 +15,5 @@ firstdirectory
 movethatfile
 
 firstdelete
+
+firstdirdeletion
