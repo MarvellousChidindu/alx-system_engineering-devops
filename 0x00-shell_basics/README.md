@@ -25,3 +25,5 @@ lists
 filetype
 
 symboliclink
+
+copyhtml
