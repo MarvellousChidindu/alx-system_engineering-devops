@@ -9,3 +9,5 @@ list files
 listmorefiles
 
 listfilesdigitonly
+
+firstdirectory
