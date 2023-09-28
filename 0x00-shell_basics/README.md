@@ -23,3 +23,5 @@ back
 lists
 
 filetype
+
+symboliclink
