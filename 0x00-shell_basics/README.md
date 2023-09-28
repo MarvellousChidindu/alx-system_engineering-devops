@@ -21,3 +21,5 @@ firstdirdeletion
 back
 
 lists
+
+filetype
