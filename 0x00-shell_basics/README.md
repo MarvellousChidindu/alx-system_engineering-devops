@@ -13,3 +13,5 @@ listfilesdigitonly
 firstdirectory
 
 movethatfile
+
+firstdelete
