@@ -7,3 +7,5 @@ display content list of working directory
 list files
 
 listmorefiles
+
+listfilesdigitonly
