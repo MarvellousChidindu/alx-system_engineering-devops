@@ -9,3 +9,5 @@ newowner
 empty
 
 execute
+
+multiplepermissions
