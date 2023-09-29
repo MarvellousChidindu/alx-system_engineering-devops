@@ -19,3 +19,5 @@ jamesbond
 johndoe
 
 mirror
+
+directories
