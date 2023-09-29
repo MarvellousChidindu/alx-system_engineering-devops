@@ -13,3 +13,5 @@ execute
 multiplepermissions
 
 everybody
+
+jamesbond
